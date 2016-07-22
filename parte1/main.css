@@ -1,0 +1,18 @@
+*{
+	 margin: 0px;
+	 padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.uno{
+	background-color: #DF013A;
+}
+.dos{
+	background-color: #3A01DF;
+}
+.tres{
+	background-color: #04B431;
+}
